@@ -1,0 +1,5 @@
+python-docx
+pdfplumber
+numpy
+sentence-transformers   # optional: better semantic search (else TF-IDF fallback)
+anthropic               # optional: generated answers (else retrieval-only)

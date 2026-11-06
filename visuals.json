@@ -1,0 +1,21 @@
+[
+  {"doc": "Sample_1_Renewable_Energy.docx", "section": "Panels planned by site", "sub_type": "bar graph",
+   "text": "Bar chart titled 'Panels planned by site'. Site A: 120 panels. Site B: 150 panels. Site C: 100 panels. Site B has the most panels planned."},
+  {"doc": "Sample_1_Renewable_Energy.docx", "section": "Illustrative visual: a simple solar-panel layout", "sub_type": "image",
+   "text": "Illustrative sample image labelled 'SOLAR ARRAY / SITE PLAN', showing a simple solar-panel layout."},
+
+  {"doc": "Sample_2_Water_Conservation.docx", "section": "Water use index by month", "sub_type": "bar graph",
+   "text": "Bar chart titled 'Water use index by month'. July: 100. August: 92. September: 86. The index falls each month."},
+  {"doc": "Sample_2_Water_Conservation.docx", "section": "Illustrative visual: a water conservation reminder card", "sub_type": "image",
+   "text": "Illustrative sample image of a reminder card labelled 'SAVE WATER / CHECK FOR LEAKS'."},
+
+  {"doc": "Sample_3_Digital_Literacy.pdf", "section": "Attendance by session", "sub_type": "bar graph",
+   "text": "Bar chart titled 'Attendance by session'. Intro: 22 attended. Email: 20 attended. Forms: 19 attended. Attendance drops slightly across the sessions."},
+  {"doc": "Sample_3_Digital_Literacy.pdf", "section": "Illustrative visual: a sample workshop handout cover", "sub_type": "image",
+   "text": "Illustrative sample image of a workshop handout cover labelled 'DIGITAL SKILLS WORKSHOP'."},
+
+  {"doc": "Sample_4_Garden_Project.pdf", "section": "Plant growth measurements", "sub_type": "bar graph",
+   "text": "Bar chart titled 'Plant growth measurements'. Week 1: 4. Week 3: 7. Week 5: 11. Measured growth increases over time."},
+  {"doc": "Sample_4_Garden_Project.pdf", "section": "Illustrative visual: a simple garden bed layout", "sub_type": "image",
+   "text": "Illustrative sample image labelled 'SCHOOL GARDEN BED LAYOUT', showing a simple garden bed layout."}
+]
